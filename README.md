@@ -130,6 +130,5 @@
 
 <div align="center">
 <h2> Gracias por tu interés en mi perfil. </h2>
-<img src="images/cute.jpg" width="500" align="center" hspace="20">
 </div>
 
