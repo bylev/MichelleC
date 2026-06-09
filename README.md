@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/michelle-camara-gonzalez-a55a1421b">
 <p><b>email:</b> [michelle.camara@tecdesoftware.edu.mx]</p>
 <p><b>GitHub:</b> <a href="https://github.com/bylev"> bylev </a> </p>
-<p><b>LinkedIn:</b> <a href="linkedin.com/in/michelle-cámara-gonzález-a55a1421b"> Michelle Cámara González </a> </p>
+<p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/michelle-c%C3%A1mara-gonz%C3%A1lez-a55a1421b/"> Michelle Cámara González </a> </p>
 
 </div>
 <h2> ꫂ᭪݁.   Acerca de mí </h2>
