@@ -1,4 +1,6 @@
 <div align="center">
+<img src="images/cat.jpg" width="150" style="border-radius: 15%" align="center" hspace="20">
+
 <h1><i>Hola, </i> soy Michelle.</h1>
 <br>
 <img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white&link=[michelle.camara@tecdesoftware.edu.mx]">
@@ -116,4 +118,18 @@
 <li> Quality Assurance - <i> Scale AI </i> (2022-2024) </li>
 </ul>
 
-S
+<h2> 𖥔. Proyectos </h2>
+<ul>
+<li> Sistema de Monitoreo de Refrigeración - UNAM </li>
+<li> Aplicación Web para la gestión de servicios con .NET Core 10 / SQL / AWS EC2 - Transportes GGP </li>
+<li> Facemask Detection - Python / OpenCV </li>
+<li> Conecta 4 MinMax and Alpha-Beta - Python </li>
+<li> Market Backend - Programación Aplicada - Spring Boot </li>
+</ul>
+
+
+<div align="center">
+<h2> Gracias por tu interés en mi perfil. </h2>
+<img src="images/cute.jpg" width="500" align="center" hspace="20">
+</div>
+
