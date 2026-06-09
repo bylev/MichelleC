@@ -1,11 +1,11 @@
 <div align="center">
 <h1><i>Hola, </i> soy Michelle.</h1>
 <br>
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/michelle-camara-gonzalez-a55a1421b">
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=github.com/bylev">
 <img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white&link=[michelle.camara@tecdesoftware.edu.mx]">
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=github.com/bylev">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/michelle-camara-gonzalez-a55a1421b">
 <p><b>email:</b> [michelle.camara@tecdesoftware.edu.mx]</p>
-<p><b>GitHub:</b> <a href="github.com/bylev"> bylev </a> </p>
+<p><b>GitHub:</b> <a href="https://github.com/bylev"> bylev </a> </p>
 <p><b>LinkedIn:</b> <a href="linkedin.com/in/michelle-cámara-gonzález-a55a1421b"> Michelle Cámara González </a> </p>
 
 </div>
@@ -116,5 +116,4 @@
 <li> Quality Assurance - <i> Scale AI </i> (2022-2024) </li>
 </ul>
 
-
-
+S
