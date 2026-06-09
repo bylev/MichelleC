@@ -15,7 +15,7 @@
 <ul>
 <li> Ingeniera en <i> Robótica Computacional </i> desde 2024. </li>
 <li> Estudiante de <i> Desarrollo de Software e Innovación en Negocios Digitales </i> </li>
-<li> Miembro de <i> IEEE </i> como Secretaria. </li>
+<li> Secretaria y miembro de la rama estudiantil de <i> IEEE </i> en el Tecnológico de Software. </li>
 </ul>
 
 <h2> 𖦹.   Tecnologías </h2>
