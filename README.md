@@ -112,7 +112,7 @@
 </div>
 
 <h2>✧. Certificaciones </h2>
-<div align="left">
+<div align="center">
 <a href="https://www.credly.com/badges/4843ca5a-1428-4a7e-afc2-89dfca536406/public_url" target="_blank">
   <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="180" alt="AWS Academy Graduate - Cloud Foundations">
 </a>
@@ -125,6 +125,7 @@
 <a href="https://www.credly.com/badges/1f29044c-50b2-44d3-936a-db4e62cbe370/public_url" target="_blank">
   <img src="https://images.credly.com/images/33cb36b3-64ad-46de-bae6-dded492582d0/linkedin_thumb_image.png" width="180" alt="AWS Cloud Fundamentals">
 </a>
+<br>
 <a href="https://www.credly.com/badges/9c89d432-a37c-46ca-89b6-2683d68915c8/public_url" target="_blank">
   <img src="https://images.credly.com/images/ffa51bb2-8cf4-4ebe-af3c-8dca9dc40b9e/linkedin_thumb_image.png" width="180" alt="Python Fundamentals">
 </a>
