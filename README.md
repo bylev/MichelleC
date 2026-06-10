@@ -3,9 +3,9 @@
 
 <h1><i>Hola, </i> soy Michi!</h1>
 <br>
-<a href="mailto:michelle.camara@tecdesoftware.edu.mx"><img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white" alt="Email"></a>
-<a href="https://github.com/bylev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/michelle-c%C3%A1mara-gonz%C3%A1lez-a55a1421b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:michelle.camara@tecdesoftware.edu.mx"><img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white" alt="Email" width="80"></a>
+<a href="https://github.com/bylev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" width="90"></a>
+<a href="https://www.linkedin.com/in/michelle-c%C3%A1mara-gonz%C3%A1lez-a55a1421b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="80"></a>
 </div>
 <h2> ꫂ᭪݁.   Acerca de mí </h2>
 <ul>
