@@ -6,6 +6,7 @@
 <p> ────୨ৎ──── </p>
 <h3><small><i>Small steps, big dreams </i></small></h3>
 <p> ────୨ৎ──── </p>
+</div>
 <br>
 <a href="mailto:michelle.camara@tecdesoftware.edu.mx"><img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white" alt="Email" width="80"></a>
 <a href="https://github.com/bylev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" width="90"></a>
