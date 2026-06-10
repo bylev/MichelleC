@@ -1,20 +1,24 @@
 <div align="center">
 <img src="images/cat.jpg" width="150" style="border-radius: 15%" align="center" hspace="20">
 
-<h1><i>Hola, </i> soy Michi!</h1>
+<h1><i>Hi, </i> I'm Michi!</h1>
+<div align="center">
+<p> ────୨ৎ──── </p>
+<h3><small><i>Small steps, big dreams </i></small></h3>
+<p> ────୨ৎ──── </p>
 <br>
 <a href="mailto:michelle.camara@tecdesoftware.edu.mx"><img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white" alt="Email" width="80"></a>
 <a href="https://github.com/bylev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" width="90"></a>
 <a href="https://www.linkedin.com/in/michelle-c%C3%A1mara-gonz%C3%A1lez-a55a1421b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="80"></a>
 </div>
-<h2> ꫂ᭪݁.   Acerca de mí </h2>
+<h2> ꫂ᭪݁.   About Me </h2>
 <ul>
-<li> Ingeniera en <i> Robótica Computacional </i> desde 2024. </li>
-<li> Estudiante de <i> Desarrollo de Software e Innovación en Negocios Digitales </i> </li>
-<li> Secretaria y miembro de la rama estudiantil de <i> IEEE </i> en el Tecnológico de Software. </li>
+<li> Computational Robotics Engineer since 2024. </li>
+<li> Student of <i> Software Development and Digital Business Innovation </i> </li>
+<li> Secretary and member of the <i> IEEE </i> student branch at Tecnológico de Software. </li>
 </ul>
 
-<h2> 𖦹.   Tecnologías </h2>
+<h2> 𖦹.   Technologies </h2>
 <div align="left">
 <table>
 <tr>
@@ -107,30 +111,30 @@
 </table>
 </div>
 
-<h2>✧. Certificaciones </h2>
+<h2>✧. Certifications </h2>
 <div align="center">
 <a href="https://www.credly.com/badges/4843ca5a-1428-4a7e-afc2-89dfca536406/public_url" target="_blank"><img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="180" alt="AWS Academy Graduate - Cloud Foundations"></a><a href="https://www.credly.com/badges/9b2354cf-d834-4fba-b741-703672d9b56c/public_url" target="_blank"><img src="https://images.credly.com/images/07e7ba52-aea4-431f-ba2d-a4113efd1d5a/linkedin_thumb_blob" width="180" alt="AWS Academy Graduate - Cloud Operations"></a><a href="https://www.credly.com/badges/15692943-c422-4bf0-a7d6-a95963e89109/public_url" target="_blank"><img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/linkedin_thumb_image.png" width="170" alt="Network Technician Career Path"></a><a href="https://www.credly.com/badges/1f29044c-50b2-44d3-936a-db4e62cbe370/public_url" target="_blank"><img src="https://images.credly.com/images/33cb36b3-64ad-46de-bae6-dded492582d0/linkedin_thumb_image.png" width="180" alt="AWS Cloud Fundamentals"></a>
 <br>
 <a href="https://www.credly.com/badges/9c89d432-a37c-46ca-89b6-2683d68915c8/public_url" target="_blank"><img src="https://images.credly.com/images/ffa51bb2-8cf4-4ebe-af3c-8dca9dc40b9e/linkedin_thumb_image.png" width="170" alt="Python Fundamentals"></a><a href="https://www.credly.com/badges/8b2b1dc5-6256-427a-8b15-9c0c01cbfc95/public_url" target="_blank"><img src="https://images.credly.com/images/4c9a104d-1dbd-4283-af2f-19af0fa7863e/linkedin_thumb_image.png" width="180" alt="Generative AI Foundations"></a>
 </div>
 
-<h2>✿. Experiencia Profesional </h2>
+<h2>✿. Professional Experience </h2>
 <ul>
-<li> Data Services Associate - <i> Boldr Impact</i> (2024 - Actual) </li>
+<li> Data Services Associate - <i> Boldr Impact</i> (2024 - Present) </li>
 <li> Quality Assurance - <i> Scale AI </i> (2022-2024) </li>
 </ul>
 
-<h2> 𖥔. Proyectos </h2>
+<h2> 𖥔. Projects </h2>
 <ul>
-<li> Sistema de Monitoreo de Refrigeración - UNAM </li>
-<li> Aplicación Web para la gestión de servicios con .NET Core 10 / SQL / AWS EC2 - Transportes GGP </li>
+<li> Refrigeration Monitoring System - UNAM </li>
+<li> Web Application for service management with .NET Core 10 / SQL / AWS EC2 - Transportes GGP </li>
 <li> Facemask Detection - Python / OpenCV </li>
-<li> Conecta 4 MinMax and Alpha-Beta - Python </li>
-<li> Market Backend - Programación Aplicada - Spring Boot </li>
+<li> Connect 4 MinMax and Alpha-Beta - Python </li>
+<li> Market Backend - Applied Programming - Spring Boot </li>
 </ul>
 
 
 <div align="center">
-<h2> Gracias por tu interés en mi perfil. </h2>
+<h2> Thank you for your interest in my profile. </h2>
 </div>
 
