@@ -1,15 +1,11 @@
 <div align="center">
 <img src="images/cat.jpg" width="150" style="border-radius: 15%" align="center" hspace="20">
 
-<h1><i>Hola, </i> soy Michelle.</h1>
+<h1><i>Hola, </i> soy Michi!</h1>
 <br>
-<img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white&link=[michelle.camara@tecdesoftware.edu.mx]">
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=github.com/bylev">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/michelle-camara-gonzalez-a55a1421b">
-<p><b>email:</b> [michelle.camara@tecdesoftware.edu.mx]</p>
-<p><b>GitHub:</b> <a href="https://github.com/bylev"> bylev </a> </p>
-<p><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/michelle-c%C3%A1mara-gonz%C3%A1lez-a55a1421b/"> Michelle Cámara González </a> </p>
-
+<a href="mailto:michelle.camara@tecdesoftware.edu.mx"><img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=Mail.ru&logoColor=white" alt="Email"></a>
+<a href="https://github.com/bylev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/michelle-c%C3%A1mara-gonz%C3%A1lez-a55a1421b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 <h2> ꫂ᭪݁.   Acerca de mí </h2>
 <ul>
